@@ -1,0 +1,71 @@
+body {
+text-align: center;
+margin: 0;
+
+}
+#hero {
+  width: 592px;
+  margin: auto;
+}
+
+#hero img {
+  margin-bottom: 32px; 
+}
+
+h1 {
+  font-family: 'Dosis', sans-serif;
+  font-size: 32px;
+  line-height: 56px;
+  font-weight: normal;
+  margin: 0 auto 16px;
+}
+
+h1 span {
+  color: #EE24FF;
+  font-weight: bold;
+}
+
+.p1 span, .p2 span {
+  font-weight: bold;
+}
+
+.p1, .p2, #footer {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 15px;
+  
+  
+}
+.p1 {
+  line-height: 22px;
+}
+
+.p2 {
+  margin-bottom: 64px;
+}
+
+a {
+  color: #3F3D56;
+  font-weight: bold;
+  
+}
+.line {
+  width: 568px;
+  height: 0px;
+  margin:0 auto 15px;
+  border: 1px solid #ECEFF2
+}
+#footer {
+  margin: 0 auto 25px;
+}
+#footer a + a {
+margin-left: 28px;
+}
+
+#wave {
+  width: 1024px;
+  height: 104px;
+  margin: 0 auto 15px;
+}
+
+
+
